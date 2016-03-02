@@ -1,15 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'Lantern-BOT v1'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @The_Lantern_74
+    
+  Open git : https://github.com/Mehdi-k5/LanternBot
   
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 5
+  Lantern VERSION 1
   
   All rights reserved.
   __________________]]
@@ -25,7 +23,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @The_Lantern_74
+--Persian Translate; @The_Lantern_74
+--ch : ........
 --کپی بدون ذکر منبع حرام است
