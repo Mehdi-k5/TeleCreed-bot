@@ -249,7 +249,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/Mehdi-k5/TeleCreed-bot
+https://github.com/Mehdi-k5/Lantern-bot
 
 ]],
     help_text_realm = [[
@@ -318,7 +318,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-TeleCreed Commands list :
+Lantern Commands list :
  
 1-banhammer list ^
  
@@ -512,7 +512,7 @@ TeleCreed Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @Xx_MeHdi_KinG_xX
+Developer: @The_Lantern_74
 توسعه دهنده
  G00D LUCK ^_^
 ]]
